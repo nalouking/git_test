@@ -3,7 +3,7 @@
 ##按游戏平台划分，分类如下：  
 ![](.\graph\2.jpg)  
 ##按游戏内容划分，分类如下：  
-<img src=".\graph\1.jpg" width="7000" height="7000">
+<img src=".\graph\1.jpg" width="10000" height="1000">
 ##从商业角度划分，分类如下：  
 ![](.\graph\3.jpg)  
 #2、从当前手游市场数据分析手游市场热点  
