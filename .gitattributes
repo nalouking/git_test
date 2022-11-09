@@ -1,2 +1,9 @@
 地形/hw4.rar filter=lfs diff=lfs merge=lfs -text
 hw5 filter=lfs diff=lfs merge=lfs -text
+抛物线 filter=lfs diff=lfs merge=lfs -text
+智能巡逻兵 filter=lfs diff=lfs merge=lfs -text
+hw1 filter=lfs diff=lfs merge=lfs -text
+hw2 filter=lfs diff=lfs merge=lfs -text
+test.txt filter=lfs diff=lfs merge=lfs -text
+地形 filter=lfs diff=lfs merge=lfs -text
+太阳系（选做） filter=lfs diff=lfs merge=lfs -text
